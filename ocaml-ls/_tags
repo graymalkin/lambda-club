@@ -1,2 +1,2 @@
-#<src/**>: package(unix)
+<src/**>: package(unix)
 <src/**>: include
